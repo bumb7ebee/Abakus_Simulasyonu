@@ -1,0 +1,36 @@
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\bumblebee\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BumbLebee\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BumbLebee\Desktop\Algoritmalar\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BumbLebee\Desktop\Algoritmalar\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BumbLebee\Desktop\Abaküs Simülasyonu\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
